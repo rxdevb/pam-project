@@ -1,0 +1,34 @@
+name: lotr_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  dio: ^5.9.0
+  provider: ^6.1.5+1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  cached_network_image: ^3.4.1
+  firebase_core: ^4.2.1
+  firebase_crashlytics: ^5.0.5
+  firebase_analytics: ^12.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  build_runner: ^2.5.4
+  hive_generator: ^2.0.1
+
+flutter:
+  uses-material-design: true
+  uses-material-design: true
+
+  assets:
+    - assets/images/

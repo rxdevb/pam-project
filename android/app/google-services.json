@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150936013740",
+    "project_id": "lotrapp-1568a",
+    "storage_bucket": "lotrapp-1568a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150936013740:android:0bcdd7a5b2c4705c7a0809",
+        "android_client_info": {
+          "package_name": "com.example.lotr_app.lotr_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb-MTjdTzJNygQxB1W0h91TA4KiymKpYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
